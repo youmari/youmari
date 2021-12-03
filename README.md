@@ -21,7 +21,7 @@ const Yassine = {
 
 - Twitter: [@yf_omari](https://twitter.com/yf_omari)
 - LinkedIn: [Yassine Omari](https://www.linkedin.com/in/yassine-omari-945114190/)
-- Email:[My Email] (omarifilaliy@gmail.com)
+- Email:(omarifilaliy@gmail.com)
 
 
 <!--
