@@ -4,7 +4,7 @@
 ```javascript
 const Yassine = {
   lookingFor: "Software Engineer position" || "Full-stack web developer",
-  stack: [Ruby_on_rails, JavaScript, React, Java],
+  stack: [Ruby_on_rails, JavaScript, React],
   status: ['Currently learning and looking for a new job opportunity],
   languages: [Arabic, French, English, German]
 }
