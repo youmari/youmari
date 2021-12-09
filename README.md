@@ -20,7 +20,7 @@ const Yassine = {
 ### Contact me 📫
 
 - Twitter: [@yf_omari](https://twitter.com/yf_omari)
-- LinkedIn: [Yassine Omari](https://www.linkedin.com/in/yassine-omari-945114190/)
+- LinkedIn: [Yassine Omari](https://www.linkedin.com/in/youmari/)
 - Email:(omarifilaliy@gmail.com)
 
 
